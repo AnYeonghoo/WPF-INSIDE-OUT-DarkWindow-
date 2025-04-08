@@ -1,0 +1,14 @@
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\bin\Debug\net8.0\ConsoleCSharpStudy.exe
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\bin\Debug\net8.0\ConsoleCSharpStudy.deps.json
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\bin\Debug\net8.0\ConsoleCSharpStudy.runtimeconfig.json
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\bin\Debug\net8.0\ConsoleCSharpStudy.dll
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\bin\Debug\net8.0\ConsoleCSharpStudy.pdb
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ConsoleCSharpStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ConsoleCSharpStudy.AssemblyInfoInputs.cache
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ConsoleCSharpStudy.AssemblyInfo.cs
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ConsoleCSharpStudy.csproj.CoreCompileInputs.cache
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ConsoleCSharpStudy.dll
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\refint\ConsoleCSharpStudy.dll
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ConsoleCSharpStudy.pdb
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ConsoleCSharpStudy.genruntimeconfig.cache
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ref\ConsoleCSharpStudy.dll
