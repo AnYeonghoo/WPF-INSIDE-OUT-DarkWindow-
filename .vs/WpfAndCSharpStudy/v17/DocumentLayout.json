@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "D:\\WpfAndCSharpStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\themes\\units\\minimizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\units\\minimizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\ui\\units\\minimizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\ui\\units\\minimizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\themes\\units\\maximizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\units\\maximizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\ui\\units\\maximizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\ui\\units\\maximizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\themes\\units\\closebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\units\\closebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\ui\\units\\closebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\ui\\units\\closebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\themes\\units\\darkscrollviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\units\\darkscrollviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\themes\\units\\darkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\units\\darkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\ui\\units\\darkscrollviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\ui\\units\\darkscrollviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\ui\\units\\darkwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\ui\\units\\darkwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|d:\\wpfandcsharpstudy\\wpfexplorer.support\\wpfexplorer.support.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47ACEB0D-BA80-45EB-A3C0-8809C86D89AA}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\wpfexplorer.support.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A3D3D5-8CD8-4E6F-A34A-2781FB4D7D1D}|WpfExplorer\\WpfExplorer.csproj|d:\\wpfandcsharpstudy\\wpfexplorer\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A3D3D5-8CD8-4E6F-A34A-2781FB4D7D1D}|WpfExplorer\\WpfExplorer.csproj|solutionrelative:wpfexplorer\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A3D3D5-8CD8-4E6F-A34A-2781FB4D7D1D}|WpfExplorer\\WpfExplorer.csproj|d:\\wpfandcsharpstudy\\wpfexplorer\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A3D3D5-8CD8-4E6F-A34A-2781FB4D7D1D}|WpfExplorer\\WpfExplorer.csproj|solutionrelative:wpfexplorer\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B87B3AC-02CD-4F9F-9F15-F56B7B43A12B}|WpfAndCSharpStudy\\WpfAndCSharpStudy.csproj|d:\\wpfandcsharpstudy\\wpfandcsharpstudy\\wpfandcsharpstudy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0B87B3AC-02CD-4F9F-9F15-F56B7B43A12B}|WpfAndCSharpStudy\\WpfAndCSharpStudy.csproj|solutionrelative:wpfandcsharpstudy\\wpfandcsharpstudy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -86,8 +142,158 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinimizeButton.cs",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\UI\\Units\\MinimizeButton.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\UI\\Units\\MinimizeButton.cs",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\UI\\Units\\MinimizeButton.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\UI\\Units\\MinimizeButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:29:11.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaximizeButton.cs",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\UI\\Units\\MaximizeButton.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\UI\\Units\\MaximizeButton.cs",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\UI\\Units\\MaximizeButton.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\UI\\Units\\MaximizeButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:24:56.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CloseButton.cs",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\UI\\Units\\CloseButton.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\UI\\Units\\CloseButton.cs",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\UI\\Units\\CloseButton.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\UI\\Units\\CloseButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:38:14.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinimizeButton.xaml",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Units\\MinimizeButton.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Units\\MinimizeButton.xaml",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Units\\MinimizeButton.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Units\\MinimizeButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T07:37:59.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaximizeButton.xaml",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T07:37:51.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CloseButton.xaml",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Units\\CloseButton.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Units\\CloseButton.xaml",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Units\\CloseButton.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Units\\CloseButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T07:37:43.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DarkScrollViewer.xaml",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T07:20:38.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DarkWindow.xaml",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Units\\DarkWindow.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Units\\DarkWindow.xaml",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Units\\DarkWindow.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Units\\DarkWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T07:20:25.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DarkScrollViewer.cs",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\UI\\Units\\DarkScrollViewer.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\UI\\Units\\DarkScrollViewer.cs",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\UI\\Units\\DarkScrollViewer.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\UI\\Units\\DarkScrollViewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:18:56.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DarkWindow.cs",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\UI\\Units\\DarkWindow.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\UI\\Units\\DarkWindow.cs",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\UI\\Units\\DarkWindow.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\UI\\Units\\DarkWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:16:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Generic.xaml",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\Themes\\Generic.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T07:14:54.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WpfExplorer.Support",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\WpfExplorer.Support.csproj",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\WpfExplorer.Support.csproj",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer.Support\\WpfExplorer.Support.csproj",
+              "RelativeToolTip": "WpfExplorer.Support\\WpfExplorer.Support.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T07:12:56.921Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -105,9 +311,39 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WpfAndCSharpStudy",
+              "DocumentIndex": 12,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer\\Starter.cs",
+              "RelativeDocumentMoniker": "WpfExplorer\\Starter.cs",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer\\Starter.cs",
+              "RelativeToolTip": "WpfExplorer\\Starter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:29:05.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.cs",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer\\App.cs",
+              "RelativeDocumentMoniker": "WpfExplorer\\App.cs",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer\\App.cs",
+              "RelativeToolTip": "WpfExplorer\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:26:59.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WpfAndCSharpStudy.csproj",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfAndCSharpStudy\\WpfAndCSharpStudy.csproj",
               "RelativeDocumentMoniker": "WpfAndCSharpStudy\\WpfAndCSharpStudy.csproj",
               "ToolTip": "D:\\WpfAndCSharpStudy\\WpfAndCSharpStudy\\WpfAndCSharpStudy.csproj",
@@ -119,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "foreachQuery.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\foreachQuery.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\foreachQuery.cs",
@@ -132,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "DeepCopy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\DeepCopy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\DeepCopy.cs",
@@ -140,23 +376,25 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\DeepCopy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T02:06:51.342Z"
+              "WhenOpened": "2025-04-08T02:06:51.342Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "StringModify.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringModify.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\StringModify.cs",
               "ToolTip": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringModify.cs",
               "RelativeToolTip": "ConsoleCSharpStudy\\StringModify.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABOwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T07:04:20.581Z"
+              "WhenOpened": "2025-04-05T07:04:20.581Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "StringSearch.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringSearch.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\StringSearch.cs",
@@ -164,11 +402,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\StringSearch.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAwwAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:58:17.415Z"
+              "WhenOpened": "2025-04-05T06:58:17.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "UsingVarStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\UsingVarStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\UsingVarStudy.cs",
@@ -176,11 +415,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\UsingVarStudy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:54:02.333Z"
+              "WhenOpened": "2025-04-05T06:54:02.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "StringStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\StringStudy.cs",
@@ -188,11 +428,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\StringStudy.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAkwBIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:37:10.366Z"
+              "WhenOpened": "2025-04-05T06:37:10.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "ConsoleCSharpStudy.csproj",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\ConsoleCSharpStudy.csproj",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\ConsoleCSharpStudy.csproj",
@@ -205,19 +446,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "StringNumberConversionStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringNumberConversionStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\StringNumberConversionStudy.cs",
               "ToolTip": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringNumberConversionStudy.cs",
               "RelativeToolTip": "ConsoleCSharpStudy\\StringNumberConversionStudy.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAABKwAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:45:27.303Z"
+              "WhenOpened": "2025-04-05T06:45:27.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "EnumStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\EnumStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\EnumStudy.cs",
@@ -225,11 +467,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\EnumStudy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:49:04.271Z"
+              "WhenOpened": "2025-04-05T06:49:04.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "Decimal.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\Decimal.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\Decimal.cs",
@@ -237,23 +480,25 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\Decimal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:35:30.847Z"
+              "WhenOpened": "2025-04-05T06:35:30.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "FloatingPoint.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\FloatingPoint.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\FloatingPoint.cs",
               "ToolTip": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\FloatingPoint.cs",
               "RelativeToolTip": "ConsoleCSharpStudy\\FloatingPoint.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABOwBMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:03:06.738Z"
+              "WhenOpened": "2025-04-04T07:03:06.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "IntegralTypes.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\IntegralTypes.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\IntegralTypes.cs",
@@ -261,11 +506,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\IntegralTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:12:39.993Z"
+              "WhenOpened": "2025-04-04T05:12:39.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "NullableStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\NullableStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\NullableStudy.cs",
@@ -273,11 +519,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\NullableStudy.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:52:01.572Z"
+              "WhenOpened": "2025-04-05T06:52:01.572Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "YieldStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\YieldStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\YieldStudy.cs",
@@ -285,11 +532,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\YieldStudy.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwBwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T08:10:50.687Z"
+              "WhenOpened": "2025-04-03T08:10:50.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "WhileStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\WhileStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\WhileStudy.cs",
@@ -297,34 +545,37 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\WhileStudy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T08:08:18.699Z"
+              "WhenOpened": "2025-04-03T08:08:18.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 30,
               "Title": "ClassStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\ClassStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\ClassStudy.cs",
               "ToolTip": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\ClassStudy.cs",
               "RelativeToolTip": "ConsoleCSharpStudy\\ClassStudy.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T07:33:53.131Z"
+              "WhenOpened": "2025-04-03T07:33:53.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfAndCSharpStudy\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfAndCSharpStudy\\MainWindow.xaml",
               "ToolTip": "D:\\WpfAndCSharpStudy\\WpfAndCSharpStudy\\MainWindow.xaml",
               "RelativeToolTip": "WpfAndCSharpStudy\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-03T07:33:47.161Z"
+              "WhenOpened": "2025-04-03T07:33:47.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 32,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfAndCSharpStudy\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfAndCSharpStudy\\MainWindow.xaml.cs",
@@ -332,7 +583,8 @@
               "RelativeToolTip": "WpfAndCSharpStudy\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T01:48:15.375Z"
+              "WhenOpened": "2025-04-03T01:48:15.375Z",
+              "EditorCaption": ""
             }
           ]
         }

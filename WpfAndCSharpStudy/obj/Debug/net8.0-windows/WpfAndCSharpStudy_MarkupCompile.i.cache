@@ -9,12 +9,12 @@ WpfAndCSharpStudy
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\WpfAndCSharpStudy\WpfAndCSharpStudy\App.xaml
-11407045341
+
+2-1094938431
 
 6-282508616
 1981839832580
-MainWindow.xaml;
+App.xaml;MainWindow.xaml;
 
-True
+False
 

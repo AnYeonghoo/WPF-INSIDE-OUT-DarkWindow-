@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\WpfAndCSharpStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71A3D3D5-8CD8-4E6F-A34A-2781FB4D7D1D}|WpfExplorer\\WpfExplorer.csproj|d:\\wpfandcsharpstudy\\wpfexplorer\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A3D3D5-8CD8-4E6F-A34A-2781FB4D7D1D}|WpfExplorer\\WpfExplorer.csproj|solutionrelative:wpfexplorer\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A3D3D5-8CD8-4E6F-A34A-2781FB4D7D1D}|WpfExplorer\\WpfExplorer.csproj|d:\\wpfandcsharpstudy\\wpfexplorer\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A3D3D5-8CD8-4E6F-A34A-2781FB4D7D1D}|WpfExplorer\\WpfExplorer.csproj|solutionrelative:wpfexplorer\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B87B3AC-02CD-4F9F-9F15-F56B7B43A12B}|WpfAndCSharpStudy\\WpfAndCSharpStudy.csproj|d:\\wpfandcsharpstudy\\wpfandcsharpstudy\\wpfandcsharpstudy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B87B3AC-02CD-4F9F-9F15-F56B7B43A12B}|WpfAndCSharpStudy\\WpfAndCSharpStudy.csproj|solutionrelative:wpfandcsharpstudy\\wpfandcsharpstudy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58596D5A-2667-40EF-A2AE-5A9532A00A0F}|ConsoleCSharpStudy\\ConsoleCSharpStudy.csproj|d:\\wpfandcsharpstudy\\consolecsharpstudy\\foreachquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58596D5A-2667-40EF-A2AE-5A9532A00A0F}|ConsoleCSharpStudy\\ConsoleCSharpStudy.csproj|solutionrelative:consolecsharpstudy\\foreachquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -103,19 +115,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer\\Starter.cs",
+              "RelativeDocumentMoniker": "WpfExplorer\\Starter.cs",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer\\Starter.cs",
+              "RelativeToolTip": "WpfExplorer\\Starter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:29:05.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfExplorer\\App.cs",
+              "RelativeDocumentMoniker": "WpfExplorer\\App.cs",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfExplorer\\App.cs",
+              "RelativeToolTip": "WpfExplorer\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:26:59.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WpfAndCSharpStudy.csproj",
+              "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfAndCSharpStudy\\WpfAndCSharpStudy.csproj",
+              "RelativeDocumentMoniker": "WpfAndCSharpStudy\\WpfAndCSharpStudy.csproj",
+              "ToolTip": "D:\\WpfAndCSharpStudy\\WpfAndCSharpStudy\\WpfAndCSharpStudy.csproj",
+              "RelativeToolTip": "WpfAndCSharpStudy\\WpfAndCSharpStudy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T23:32:15.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "foreachQuery.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\foreachQuery.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\foreachQuery.cs",
               "ToolTip": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\foreachQuery.cs",
               "RelativeToolTip": "ConsoleCSharpStudy\\foreachQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T04:11:04.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DeepCopy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\DeepCopy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\DeepCopy.cs",
@@ -128,20 +179,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "StringModify.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringModify.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\StringModify.cs",
               "ToolTip": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringModify.cs",
               "RelativeToolTip": "ConsoleCSharpStudy\\StringModify.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABOwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-05T07:04:20.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "StringSearch.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringSearch.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\StringSearch.cs",
@@ -154,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UsingVarStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\UsingVarStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\UsingVarStudy.cs",
@@ -167,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "StringStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\StringStudy.cs",
@@ -175,11 +226,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\StringStudy.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAkwBIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:37:10.366Z"
+              "WhenOpened": "2025-04-05T06:37:10.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ConsoleCSharpStudy.csproj",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\ConsoleCSharpStudy.csproj",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\ConsoleCSharpStudy.csproj",
@@ -192,19 +244,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "StringNumberConversionStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringNumberConversionStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\StringNumberConversionStudy.cs",
               "ToolTip": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\StringNumberConversionStudy.cs",
               "RelativeToolTip": "ConsoleCSharpStudy\\StringNumberConversionStudy.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAABKwAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:45:27.303Z"
+              "WhenOpened": "2025-04-05T06:45:27.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "EnumStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\EnumStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\EnumStudy.cs",
@@ -212,11 +265,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\EnumStudy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:49:04.271Z"
+              "WhenOpened": "2025-04-05T06:49:04.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Decimal.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\Decimal.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\Decimal.cs",
@@ -224,23 +278,25 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\Decimal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:35:30.847Z"
+              "WhenOpened": "2025-04-05T06:35:30.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "FloatingPoint.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\FloatingPoint.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\FloatingPoint.cs",
               "ToolTip": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\FloatingPoint.cs",
               "RelativeToolTip": "ConsoleCSharpStudy\\FloatingPoint.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABOwBMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T07:03:06.738Z"
+              "WhenOpened": "2025-04-04T07:03:06.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IntegralTypes.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\IntegralTypes.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\IntegralTypes.cs",
@@ -248,11 +304,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\IntegralTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T05:12:39.993Z"
+              "WhenOpened": "2025-04-04T05:12:39.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "NullableStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\NullableStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\NullableStudy.cs",
@@ -260,11 +317,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\NullableStudy.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T06:52:01.572Z"
+              "WhenOpened": "2025-04-05T06:52:01.572Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "YieldStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\YieldStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\YieldStudy.cs",
@@ -272,11 +330,12 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\YieldStudy.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwBwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T08:10:50.687Z"
+              "WhenOpened": "2025-04-03T08:10:50.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "WhileStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\WhileStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\WhileStudy.cs",
@@ -284,34 +343,37 @@
               "RelativeToolTip": "ConsoleCSharpStudy\\WhileStudy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T08:08:18.699Z"
+              "WhenOpened": "2025-04-03T08:08:18.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ClassStudy.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\ClassStudy.cs",
               "RelativeDocumentMoniker": "ConsoleCSharpStudy\\ClassStudy.cs",
               "ToolTip": "D:\\WpfAndCSharpStudy\\ConsoleCSharpStudy\\ClassStudy.cs",
               "RelativeToolTip": "ConsoleCSharpStudy\\ClassStudy.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T07:33:53.131Z"
+              "WhenOpened": "2025-04-03T07:33:53.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfAndCSharpStudy\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfAndCSharpStudy\\MainWindow.xaml",
               "ToolTip": "D:\\WpfAndCSharpStudy\\WpfAndCSharpStudy\\MainWindow.xaml",
               "RelativeToolTip": "WpfAndCSharpStudy\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-03T07:33:47.161Z"
+              "WhenOpened": "2025-04-03T07:33:47.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\WpfAndCSharpStudy\\WpfAndCSharpStudy\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfAndCSharpStudy\\MainWindow.xaml.cs",
@@ -319,7 +381,8 @@
               "RelativeToolTip": "WpfAndCSharpStudy\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T01:48:15.375Z"
+              "WhenOpened": "2025-04-03T01:48:15.375Z",
+              "EditorCaption": ""
             }
           ]
         }
