@@ -18,3 +18,4 @@ D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\refint\WpfAndCSh
 D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStudy.pdb
 D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStudy.genruntimeconfig.cache
 D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\ref\WpfAndCSharpStudy.dll
+D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStudy.sourcelink.json

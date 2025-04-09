@@ -29,7 +29,7 @@ namespace ConsoleCSharpStudy
             yield return 20;
             yield return 30;
         }
-        static void MainYieldStudy()
+        static void Main()
         {
             foreach (int num in GetNumber())
             {

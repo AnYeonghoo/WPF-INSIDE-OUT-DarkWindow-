@@ -12,3 +12,4 @@ D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\refint\ConsoleCSharpStu
 D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ConsoleCSharpStudy.pdb
 D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ConsoleCSharpStudy.genruntimeconfig.cache
 D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ref\ConsoleCSharpStudy.dll
+D:\WpfAndCSharpStudy\ConsoleCSharpStudy\obj\Debug\net8.0\ConsoleCSharpStudy.sourcelink.json
