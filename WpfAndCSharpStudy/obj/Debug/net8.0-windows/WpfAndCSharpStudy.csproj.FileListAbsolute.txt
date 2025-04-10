@@ -13,9 +13,9 @@ D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStud
 D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStudy.AssemblyInfoInputs.cache
 D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStudy.AssemblyInfo.cs
 D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStudy.csproj.CoreCompileInputs.cache
+D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStudy.sourcelink.json
 D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStudy.dll
 D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\refint\WpfAndCSharpStudy.dll
 D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStudy.pdb
 D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStudy.genruntimeconfig.cache
 D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\ref\WpfAndCSharpStudy.dll
-D:\WpfAndCSharpStudy\WpfAndCSharpStudy\obj\Debug\net8.0-windows\WpfAndCSharpStudy.sourcelink.json

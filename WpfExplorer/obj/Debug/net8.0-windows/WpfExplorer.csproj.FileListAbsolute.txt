@@ -15,6 +15,10 @@ D:\WpfAndCSharpStudy\WpfExplorer\bin\Debug\net8.0-windows\Unity.Abstractions.dll
 D:\WpfAndCSharpStudy\WpfExplorer\bin\Debug\net8.0-windows\Unity.Container.dll
 D:\WpfAndCSharpStudy\WpfExplorer\bin\Debug\net8.0-windows\WpfAutoGrid.Core.dll
 D:\WpfAndCSharpStudy\WpfExplorer\bin\Debug\net8.0-windows\YamlDotNet.NetCore.dll
+D:\WpfAndCSharpStudy\WpfExplorer\bin\Debug\net8.0-windows\WpfExplorer.Forms.dll
+D:\WpfAndCSharpStudy\WpfExplorer\bin\Debug\net8.0-windows\WpfExplorer.Support.dll
+D:\WpfAndCSharpStudy\WpfExplorer\bin\Debug\net8.0-windows\WpfExplorer.Forms.pdb
+D:\WpfAndCSharpStudy\WpfExplorer\bin\Debug\net8.0-windows\WpfExplorer.Support.pdb
 D:\WpfAndCSharpStudy\WpfExplorer\obj\Debug\net8.0-windows\WpfExplorer.csproj.AssemblyReference.cache
 D:\WpfAndCSharpStudy\WpfExplorer\obj\Debug\net8.0-windows\WpfExplorer.GeneratedMSBuildEditorConfig.editorconfig
 D:\WpfAndCSharpStudy\WpfExplorer\obj\Debug\net8.0-windows\WpfExplorer.AssemblyInfoInputs.cache
